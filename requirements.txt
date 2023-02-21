@@ -1,0 +1,3 @@
+selenium
+ConfigParser
+webdriver-manager
