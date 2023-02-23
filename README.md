@@ -4,6 +4,8 @@ The repository uses the [go-scim](https://github.com/imulab/go-scim) repo to cre
 ** Please note:
 1. The server must first be installed  
 2. In order to use a domain rather than IP, you have to buy one and set an A record in your DNS server
+<br /><br />
+[Tool technical video](https://www.youtube.com/watch?v=tPiuOimbwRY)
 
 ## prerequisites
 Docker, Docker-compose, make and go should be installed<br />
